@@ -56,3 +56,12 @@ Este projeto é um sistema completo de **carteira digital**, permitindo:
 ### 1. Clone o projeto
 ```bash
 git clone https://github.com/saviobortoline/laravel-carteira.git
+
+### 2. Acesse a pasta do projeto
+cd  C:\local
+
+### 3. Instale o composer
+composer install
+
+### 4. rodo o projeto
+php artisan serve
