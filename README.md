@@ -67,13 +67,4 @@ composer install
 php artisan serve
 
 ---
-## Configurar o Banco de Dados 
-
-Crie o arquivo .env e configure esta parte:
-
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=financial_portfolio
-DB_USERNAME=root
-DB_PASSWORD=
+## 5. Configure o banco de dados
